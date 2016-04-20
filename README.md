@@ -4,6 +4,7 @@
 ##Usage
 <img src="http://i.imgur.com/6zcikgl.png" width="500px">
 
+`sw + {query}`
 
 #License
 
